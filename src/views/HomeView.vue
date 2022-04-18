@@ -40,10 +40,10 @@
   }
 </script>
 <style scoped>
-.home-content[data-v-9ea40744] {
+
+.home-content {
 	position: absolute;
-	top: 100px;
-	left: 0px;
+	top: 16%;
 	width: 100%;
 }
 
