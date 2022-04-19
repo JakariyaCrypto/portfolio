@@ -20,9 +20,8 @@ yarn build
 yarn lint
 
 ```
-### project screenshort
-
-![natural-ecom](https://user-images.githubusercontent.com/91799526/164013731-c053ab17-f0d8-40d3-9d6d-ede3444b76cd.png)
+### portfolio screenshort
+![Screenshot 2022-04-19 at 19-25-02 DeveloperJk](https://user-images.githubusercontent.com/91799526/164014473-d4259969-e224-47c1-8ec2-fc15a0a69db0.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
