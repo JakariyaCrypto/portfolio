@@ -17,7 +17,8 @@ yarn build
 
 ### Lints and fixes files
 ```
-yarn lint
+yarn lint![natural-ecom](https://user-images.githubusercontent.com/91799526/164013339-b8d9ae53-6fff-4f96-82a2-ceb7c918a4f7.png)
+
 ```
 
 ### Customize configuration
